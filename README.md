@@ -12,8 +12,12 @@ Particle Swarm Optimization (PSO) を用いて、理想的な残響音（イン�
 
 ## 使い方
 
+<img width="399" height="327" alt="image" src="https://github.com/user-attachments/assets/331e3d16-1289-4635-9e98-ad24b7726326" />
+
+
 1. [Releases](../../releases) ページから最新の実行ファイルをダウンロードします。
 2. アプリを起動します。
 3. **Target RT60** (残響の長さ) と **Brightness** (音の明るさ) をスライダーで設定します。
 4. "Generate Impulse Response" を押し、保存先を指定します。
+
 5. 計算が完了するとWAVファイルが保存されます。
